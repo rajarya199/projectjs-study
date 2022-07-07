@@ -45,6 +45,7 @@ export default function Home() {
                 </h1>
                 <h2>{posts.title}</h2>
                 <h2>{posts.author}</h2>
+                <p> recently updated data</p>
                 <hr/>
               </div>
             )
